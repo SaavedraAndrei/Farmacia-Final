@@ -1,0 +1,14 @@
+G:\Dev\C# Proyecto Final\CapaNegocio\bin\Debug\CapaNegocio.dll
+G:\Dev\C# Proyecto Final\CapaNegocio\bin\Debug\CapaNegocio.pdb
+G:\Dev\C# Proyecto Final\CapaNegocio\bin\Debug\CapaDatos.dll
+G:\Dev\C# Proyecto Final\CapaNegocio\bin\Debug\CapaDatos.pdb
+G:\Dev\C# Proyecto Final\CapaNegocio\bin\Debug\CapaDatos.dll.config
+G:\Dev\C# Proyecto Final\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+G:\Dev\C# Proyecto Final\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+G:\Dev\C# Proyecto Final\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+G:\Dev\C# Proyecto Final\CapaNegocio\obj\Debug\CapaNegocio.dll
+G:\Dev\C# Proyecto Final\CapaNegocio\obj\Debug\CapaNegocio.pdb
+G:\Dev\C# Proyecto Final\CapaNegocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\Dev\C# Proyecto Final\CapaNegocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\Dev\C# Proyecto Final\CapaNegocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\Dev\C# Proyecto Final\CapaNegocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
